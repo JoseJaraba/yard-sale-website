@@ -1,0 +1,20 @@
+{
+  "name": "yard-sale-website",
+  "version": "1.0.0",
+  "description": "Practical simulation of a yard sale e-commerce using vanilla JavaScript, HTML and CSS.",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoseJaraba/yard-sale-website.git"
+  },
+  "keywords": [],
+  "author": "JoseJaraba <josem.jaraba@hotmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JoseJaraba/yard-sale-website/issues"
+  },
+  "homepage": "https://github.com/JoseJaraba/yard-sale-website#readme"
+}

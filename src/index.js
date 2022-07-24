@@ -5,7 +5,7 @@ const burgerMenu = document.querySelector('.menu');
 const mobileMenu = document.querySelector('.mobile-menu');
 
 const shoppingCartIcon = document.querySelector('.navbar-shopping-cart');
-const shoppingCartMenu = document.querySelector('.product-detail');
+const shoppingCartMenu = document.querySelector('.shopping-cart-container');
 
 const cardContainer = document.querySelector('.cards-container')
 
@@ -24,6 +24,16 @@ productList.push({
     name: ' Game Boy',
     price: 195,
     image: 'https://images.pexels.com/photos/2263816/pexels-photo-2263816.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
+});
+productList.push({
+    name: ' Books',
+    price: 65,
+    image: 'https://images.pexels.com/photos/1666320/pexels-photo-1666320.jpeg?auto=compress&cs=tinysrgb&w=600'
+});
+productList.push({
+    name: ' Sofa',
+    price: 100,
+    image: 'https://images.pexels.com/photos/92065/pexels-photo-92065.jpeg?auto=compress&cs=tinysrgb&w=600'
 });
 
 
